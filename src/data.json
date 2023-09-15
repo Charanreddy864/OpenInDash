@@ -1,0 +1,31 @@
+[
+    {
+      "icon": "fa-regular fa-money-bill-1",
+      "name": "Total Revenues",
+      "value": "$10,000",
+      "percent": "+1.2%",
+      "color":"#4cd137"
+    },
+    {
+      "icon": "fa-solid fa-tags",
+      "name": "Total Transactions",
+      "value": "1520",
+      "percent": "+1.7%",
+      "color":"#faa645"
+    },
+    {
+      "icon": "fa-regular fa-thumbs-up",
+      "name": "Total Likes",
+      "value": "9721",
+      "percent": "+1.4%",
+      "color":"#FD7272"
+    },
+    {
+      "icon": "fa-solid fa-user-group",
+      "name": "Total Users",
+      "value": "9721",
+      "percent": "+4.2%",
+      "color":"#D6A2E8"
+    }
+  ]
+  
