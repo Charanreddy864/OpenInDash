@@ -788,5 +788,87 @@ body{
 
 
 }
+@media (max-width:500px){
+    .rightside{
+        height:80%;
+    }
+    .media{
+        width:70%;
+        margin:0 auto 0 auto;
+    }
+    .gaIn{
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        width:38%;
+        height:10%;
+        top:25%;
+    }
+    .loginbox{
+        height:50%;
+        width:60%;
+        position: absolute;
+        background-color: white;
+        top:35%;
+        left:13%;
+        border-radius: 20px;
+    }
+    .google,.apple{
+        height:30%;
+        width:100%;
+
+    }
+    .rightside div p{
+        font-size: 8px;
+    }
+    .signin{
+        width:50%;
+    }
+    .register{
+        top:87%;
+    }
+    .register span{
+        font-size: 10px;
+    } 
+    .rightside img{
+        left:5%;
+    }
+    .dashboard{
+        height: 300vh;
+    }
+    .piechart{
+        height:40%;
+        scale:1;
+        position: absolute;
+        left:10%;
+        top: 15%;
+    }
+    .pieLegend{
+        height:40%;
+        left:30%;
+    }
+    .piecont p{
+        top:10%;
+    }
+    .profiledetails{
+        height:50%;
+        width:80%;
+        right:10%;
+    }
+    .name{
+        height:30%;
+    }
+    .profiledata{
+        display: flex;
+        flex-direction: column;
+    }
+    .profiledata div{
+        align-items: center;
+
+    }
+    .graphcont{
+        height:20%;
+    }
+}
 
 
