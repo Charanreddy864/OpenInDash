@@ -903,6 +903,7 @@ body{
         position: absolute;
         height:80%;
         bottom:0%;
+        cutout:60;
         
     .piecont{
         position:relative;
