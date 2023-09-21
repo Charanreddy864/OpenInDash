@@ -833,9 +833,6 @@ body{
     .rightside img{
         left:5%;
     }
-    .dashboard{
-        height: 300vh;
-    }
     .piechart{
         height:40%;
         scale:1;
