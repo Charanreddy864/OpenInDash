@@ -898,5 +898,13 @@ body{
     .profilecont p{
         left:38%;
         bottom:28%;
+        }
+    .piechart{
+        position: absolute;
+        height:80%;
+        bottom:0%;
+        
+    .piecont{
+        position:relative;
     }
 }
